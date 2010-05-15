@@ -14,7 +14,10 @@
 	NSString *pathToDb;
 }
 
+@property (nonatomic, readonly) NSString *pathToDb;
+
 -(id)initWithFileName:(NSString *)filename;
+
 -(NSArray *)fetchTodos;
 -(void)insertTodo:(Todo *)todo;
 -(void)updateTodo:(Todo *)todo;

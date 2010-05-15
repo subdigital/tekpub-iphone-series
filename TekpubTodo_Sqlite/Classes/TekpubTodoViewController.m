@@ -10,6 +10,7 @@
 #import "Todo.h"
 #import "TodoEditorController.h"
 #import "TekpubTodoAppDelegate.h"
+#import "FMDBTodoDatabase.h"
 
 @implementation TekpubTodoViewController
 
@@ -21,7 +22,6 @@
 }
 
 -(NSInteger)tableView:(UITableView*)tableView numberOfRowsInSection:(NSInteger)section {
-	NSLog(@"# rows called, returning %d", [todoItems count]);
 	return [todoItems count];
 }
 
@@ -127,7 +127,7 @@
 
 - (id)initWithCoder:(NSCoder *)aDecoder {
 	if(self = [super initWithCoder:aDecoder]) {
-		db = [[TodoDatabase alloc] initWithFileName:@"todo.db"];
+		db = [[FMDBTodoDatabase alloc] initWithFileName:@"todo.db"];
 	}
 	
 	return self;

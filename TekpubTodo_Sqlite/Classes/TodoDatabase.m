@@ -12,6 +12,8 @@
 
 @implementation TodoDatabase
 
+@synthesize pathToDb;
+
 +(void)makeWritableCopy:(NSString *)filename {
 	
 	BOOL overwiteDatabase = NO;
