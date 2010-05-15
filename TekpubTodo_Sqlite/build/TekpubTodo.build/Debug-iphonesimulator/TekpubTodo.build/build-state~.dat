@@ -1,499 +1,0 @@
-TTekpubTodo
-v7
-r0
-t295239259.070433
-cCheck dependencies
-cProcessInfoPlistFile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/Info.plist TekpubTodo-Info.plist
-cCompileXIB /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/MainWindow.xib
-cCompileXIB /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodoViewController.xib
-cCompileXIB /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.xib
-cCpResource build/Debug-iphonesimulator/TekpubTodo.app/todo.db todo.db
-cProcessPCH /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch.gch TekpubTodo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/main.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoAppDelegate.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoViewController.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/Todo.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TodoEditorController.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TodoDatabase.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoDatabase.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/FileHelpers.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/FileHelpers.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodo normal i386
-
-N/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
-c000000004B99743200000000000000EE
-t1268347954
-s238
-
-N/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004ABDC853000000000026DB60
-t1253951571
-s2546528
-
-N/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004ABDC952000000000027D5E0
-t1253951826
-s2610656
-
-N/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004ABDC93F0000000000001355
-t1253951807
-s4949
-
-N/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004ABDEE1D0000000000000788
-t1253961245
-s1928
-
-N/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004ABDEEE20000000001670F70
-t1253961442
-s23531376
-
-N/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sqlite3.h
-c000000004ABDC6A0000000000003D86F
-t1253951136
-s252015
-
-N/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/libsqlite3.0.dylib
-c000000004ABDC6BF00000000000C39E0
-t1253951167
-s801248
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Constants.h
-c000000004BE8C6B400000000000000CF
-t1273546420
-s207
-i<Foundation/Foundation.h>
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Constants.m
-c000000004BE8BCAD00000000000000C9
-t1273543853
-s201
-i"Constants.h"
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/FileHelpers.h
-c000000004BE8B96300000000000000C8
-t1273543011
-s200
-i<Foundation/Foundation.h>
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/FileHelpers.m
-c000000004BE8B9D60000000000000144
-t1273543126
-s324
-i"FileHelpers.h"
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoAppDelegate.h
-c000000004BE8B72300000000000001F1
-t1273542435
-s497
-i<UIKit/UIKit.h>
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoAppDelegate.m
-c000000004BE8C6BE00000000000002DB
-t1273546430
-s731
-i"TekpubTodoAppDelegate.h"
-i"TekpubTodoViewController.h"
-i"TodoDatabase.h"
-i"Constants.h"
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoViewController.h
-c000000004BE8BC8E000000000000023C
-t1273543822
-s572
-i<UIKit/UIKit.h>
-i"TodoEditorController.h"
-i"Todo.h"
-i"TodoDatabase.h"
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoViewController.m
-c000000004BE8C6C70000000000000F09
-t1273546439
-s3849
-i"TekpubTodoViewController.h"
-i"Todo.h"
-i"TodoEditorController.h"
-i"Constants.h"
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.h
-c000000004BE8C45900000000000001ED
-t1273545817
-s493
-i<Foundation/Foundation.h>
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m
-c000000004BE8B72400000000000001B1
-t1273542436
-s433
-i"Todo.h"
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoDatabase.h
-c000000004BE8C0BC0000000000000173
-t1273544892
-s371
-i<Foundation/Foundation.h>
-i"sqlite3.h"
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoDatabase.m
-c000000004BE8C4A900000000000008E8
-t1273545897
-s2280
-i"TodoDatabase.h"
-i"FileHelpers.h"
-i"Todo.h"
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.h
-c000000004BE8B72400000000000002DA
-t1273542436
-s730
-i<UIKit/UIKit.h>
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.m
-c000000004BE8B7240000000000000B9B
-t1273542436
-s2971
-i"TodoEditorController.h"
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.xib
-c000000004BE8B724000000000000597A
-t1273542436
-s22906
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/MainWindow.xib
-c000000004BE8B724000000000000246F
-t1273542436
-s9327
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodoViewController.xib
-c000000004BE8B7240000000000005FE3
-t1273542436
-s24547
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodo_Prefix.pch
-c000000004BE8C6A900000000000000BB
-t1273546409
-s187
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app
-t2
-s0
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app.dSYM
-t2
-s0
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/Info.plist
-t1273546449
-s605
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/MainWindow.nib
-t1273546456
-s1656
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/PkgInfo
-t1273546449
-s8
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodo
-t2
-s0
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodoViewController.nib
-t1273546456
-s3187
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TodoEditorController.nib
-t1273546456
-s2985
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/todo.db
-t1273546456
-s3072
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/Constants.o
-t1273543869
-s5432
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/FileHelpers.o
-t1273546458
-s6344
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodo.LinkFileList
-c000000004BE8C6D10000000000000496
-t1273546449
-s1174
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoAppDelegate.o
-t1273546458
-s39140
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoViewController.o
-t1273546458
-s45164
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/Todo.o
-t1273546458
-s9808
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TodoDatabase.o
-t1273546458
-s13452
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TodoEditorController.o
-t1273546458
-s42320
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/main.o
-t1273546458
-s6024
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/main.m
-c000000004BE8B724000000000000016C
-t1273542436
-s364
-i<UIKit/UIKit.h>
-
-N/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/todo.db
-c000000004BE8B85E0000000000000C00
-t1273542750
-s3072
-
-N/var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch.gch
-t1273546458
-s13026768
-
-N/var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-dcmfppdeaibuxtcfoltzobwteyzi/TekpubTodo_Prefix.pch.gch
-t1273546410
-s13026768
-
-N/var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-fcujmhfrmihlbjamtjkdigynfpuo/TekpubTodo_Prefix.pch.gch
-t1273543868
-s13026800
-
-NTekpubTodo-Info.plist
-c000000004BE8B724000000000000038D
-t1273542436
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies295239249#295239249#0(0"0(0#1#0"4300729184#0"0#
-
-CCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/Constants.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Constants.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s295236669.030690
-e295236669.091726
-r1
-xCompileC
-xbuild/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/Constants.o
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Constants.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@96"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Constants.m295236669#295236669#0(0"0(0#0#88"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Constants.m4300729184#2368"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources -include /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-fcujmhfrmihlbjamtjkdigynfpuo/TekpubTodo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Constants.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/Constants.o0#
-
-CCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/FileHelpers.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/FileHelpers.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s295239258.644841
-e295239258.722004
-r1
-xCompileC
-xbuild/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/FileHelpers.o
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/FileHelpers.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@98"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/FileHelpers.m295239258#295239258#0(0"0(0#0#90"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/FileHelpers.m4300729184#2372"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources -include /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/FileHelpers.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/FileHelpers.o0#
-
-CCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoAppDelegate.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s295239258.214472
-e295239258.315483
-r1
-xCompileC
-xbuild/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoAppDelegate.o
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@108"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoAppDelegate.m295239258#295239258#0(0"0(0#0#100"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoAppDelegate.m4300729184#2392"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources -include /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoAppDelegate.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoAppDelegate.o0#
-
-CCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoViewController.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s295239258.286109
-e295239258.421669
-r1
-xCompileC
-xbuild/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoViewController.o
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@111"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoViewController.m295239258#295239258#0(0"0(0#0#103"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoViewController.m4300729184#2398"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources -include /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TekpubTodoViewController.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoViewController.o0#
-
-CCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/Todo.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s295239258.315652
-e295239258.383844
-r1
-xCompileC
-xbuild/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/Todo.o
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m:32: warning: property 'todoId' requires method '-todoId' to be defined - use @synthesize, @dynamic or provide a method implementation
-o/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m:32: warning: property 'todoId' requires the method 'setTodoId:' to be defined - use @synthesize, @dynamic or provide a method implementation
-lSLF07#2@91"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m295239258#295239258#0(443"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m:32: warning: property 'todoId' requires method '-todoId' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m:32: warning: property 'todoId' requires the method 'setTodoId:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@120"Property 'todoId' requires method '-todoId' to be defined - use @synthesize, @dynamic or provide a method implementation295239258#0#218#0(6@83"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m295235236#32#0#32#0#0"0(22@127"Property 'todoId' requires the method 'setTodoId:' to be defined - use @synthesize, @dynamic or provide a method implementation295239258#218#225#0(6@83"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m295235236#32#0#32#0#0"0(0#0#83"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m4300729184#2358"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources -include /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/Todo.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/Todo.o0#
-
-CCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TodoDatabase.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoDatabase.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s295239258.421770
-e295239258.644720
-r1
-xCompileC
-xbuild/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TodoDatabase.o
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoDatabase.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@99"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoDatabase.m295239258#295239258#0(0"0(0#0#91"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoDatabase.m4300729184#2374"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources -include /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoDatabase.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TodoDatabase.o0#
-
-CCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TodoEditorController.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s295239258.384081
-e295239258.646317
-r1
-xCompileC
-xbuild/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TodoEditorController.o
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@107"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.m295239258#295239258#0(0"0(0#0#99"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.m4300729184#2390"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources -include /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TodoEditorController.o0#
-
-CCompileC build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/main.o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s295239258.213301
-e295239258.286004
-r1
-xCompileC
-xbuild/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/main.o
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@83"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/main.m295239258#295239258#0(0"0(0#0#75"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/main.m4300729184#2350"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources -include /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/main.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.xib
-s295239256.326333
-e295239257.019479
-r1
-xCompileXIB
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.xib
-lSLF07#2@43"CompileXIB Classes/TodoEditorController.xib295239256#295239257#0(0"0(0#0#101"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.xib4300729184#699"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TodoEditorController.nib /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/Classes/TodoEditorController.xib0#
-
-CCompileXIB /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/MainWindow.xib
-s295239249.735326
-e295239256.326040
-r1
-xCompileXIB
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib295239249#295239256#0(0"0(0#0#83"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/MainWindow.xib4300729184#671"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/MainWindow.nib /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/MainWindow.xib0#
-
-CCompileXIB /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodoViewController.xib
-s295239249.737482
-e295239256.675096
-r1
-xCompileXIB
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodoViewController.xib
-lSLF07#2@39"CompileXIB TekpubTodoViewController.xib295239249#295239256#0(0"0(0#0#97"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodoViewController.xib4300729184#699"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodoViewController.nib /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodoViewController.xib0#
-
-CCpResource build/Debug-iphonesimulator/TekpubTodo.app/todo.db todo.db
-s295239256.675190
-e295239256.702907
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/TekpubTodo.app/todo.db
-xtodo.db
-lSLF07#2@12"Copy todo.db295239256#295239256#0(0"0(0#0#76"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/todo.db4300729184#640"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/todo.db /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app0#
-
-CGenerateDSYMFile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app.dSYM /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodo
-s295238693.570625
-e295238693.592946
-r1
-xGenerateDSYMFile
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app.dSYM
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodo
-lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/TekpubTodo.app.dSYM build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodo295238693#295238693#0(0"0(0#0#122"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodo4300729184#578"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/usr/bin/dsymutil /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodo -o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app.dSYM0#
-
-CLd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodo normal i386
-s295239258.722093
-e295239259.070362
-r0
-xLd
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodo
-xnormal
-xi386
-old: duplicate symbol _DATABASE_FILENAME in /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoViewController.o and /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoAppDelegate.o
-ocollect2: ld returned 1 exit status
-lSLF07#2@127"Link /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodo295239258#295239259#0(545"ld: duplicate symbol _DATABASE_FILENAME in /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoViewController.o and /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoAppDelegate.ocollect2: ld returned 1 exit statusCommand /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 12(13@395"Duplicate symbol _DATABASE_FILENAME in /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoViewController.o and /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodoAppDelegate.o295239259#0#400#0(6@0"295239259#0#0#0#0#0"0(4@108"Command /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1295239259#18446744073709551615#0#0(1@0"0(0#0#0"4300729184#1142"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -filelist /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/Objects-normal/i386/TekpubTodo.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/TekpubTodo1#
-
-CProcessInfoPlistFile /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/Info.plist TekpubTodo-Info.plist
-s295239249.680320
-e295239249.735230
-r1
-xProcessInfoPlistFile
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/Info.plist
-xTekpubTodo-Info.plist
-lSLF07#2@29"Process TekpubTodo-Info.plist295239249#295239249#0(0"0(0#0#90"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodo-Info.plist4300729184#669"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    builtin-infoPlistUtility TekpubTodo-Info.plist -genpkginfo /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app/Info.plist0#
-
-CProcessPCH /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch.gch TekpubTodo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s295239257.019616
-e295239258.213160
-r1
-xProcessPCH
-x/var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch.gch
-xTekpubTodo_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@32"Precompile TekpubTodo_Prefix.pch295239257#295239258#0(0"0(0#0#90"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodo_Prefix.pch4300729184#2209"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodo_Prefix.pch -o /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-bcmbafqfsfwzeqetejmoqjzuazll/TekpubTodo_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-dcmfppdeaibuxtcfoltzobwteyzi/TekpubTodo_Prefix.pch.gch TekpubTodo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s295239210.216724
-e295239210.967624
-r1
-xProcessPCH
-x/var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-dcmfppdeaibuxtcfoltzobwteyzi/TekpubTodo_Prefix.pch.gch
-xTekpubTodo_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@32"Precompile TekpubTodo_Prefix.pch295239210#295239210#0(0"0(0#0#90"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodo_Prefix.pch4300729184#2209"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodo_Prefix.pch -o /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-dcmfppdeaibuxtcfoltzobwteyzi/TekpubTodo_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-fcujmhfrmihlbjamtjkdigynfpuo/TekpubTodo_Prefix.pch.gch TekpubTodo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s295236667.318108
-e295236668.748325
-r1
-xProcessPCH
-x/var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-fcujmhfrmihlbjamtjkdigynfpuo/TekpubTodo_Prefix.pch.gch
-xTekpubTodo_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@32"Precompile TekpubTodo_Prefix.pch295236667#295236668#0(0"0(0#0#90"/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodo_Prefix.pch4300729184#2209"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/TekpubTodo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/TekpubTodo.build/Debug-iphonesimulator/TekpubTodo.build/DerivedSources -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/TekpubTodo_Prefix.pch -o /var/folders/ie/ieiwKYmcEVejOBQMFImVnk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TekpubTodo_Prefix-fcujmhfrmihlbjamtjkdigynfpuo/TekpubTodo_Prefix.pch.gch0#
-
-CTouch /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app
-s295238693.593037
-e295238693.595901
-r1
-xTouch
-x/Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app
-lSLF07#2@117"Touch /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app295238693#295238693#0(0"0(0#0#0"4300729184#432"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite    setenv PATH "/Developer/Beta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/Beta/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/git/bin"    /usr/bin/touch -c /Users/ben/Development/iPhone/tekpub-iphone-series/TekpubTodo_Sqlite/build/Debug-iphonesimulator/TekpubTodo.app0#
-

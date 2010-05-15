@@ -15,7 +15,6 @@
 @synthesize window;
 @synthesize viewController;
 
-
 - (void)applicationDidFinishLaunching:(UIApplication *)application {        
 	NSLog(@"AppDelegate: MakeWritableCopy");
 	[TodoDatabase makeWritableCopy:@"todo.db"];

@@ -8,15 +8,17 @@
 
 #import <Foundation/Foundation.h>
 #import "sqlite3.h"
+#import "Todo.h"
 
 @interface TodoDatabase : NSObject {
 	NSString *pathToDb;
 }
 
-//NSString *DB_FILENAME = @"todo.db";
-
 -(id)initWithFileName:(NSString *)filename;
 -(NSArray *)fetchTodos;
+-(void)insertTodo:(Todo *)todo;
+-(void)updateTodo:(Todo *)todo;
+-(void)deleteTodo:(Todo *)todo;
 
 +(void)makeWritableCopy:(NSString *)filename;
 

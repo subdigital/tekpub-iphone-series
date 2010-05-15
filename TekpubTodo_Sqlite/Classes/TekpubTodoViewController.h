@@ -22,6 +22,8 @@
 
 -(IBAction)edit;
 -(IBAction)addButtonPushed;
+-(void)loadTodos;
+-(void)reload;
 
 @end
 

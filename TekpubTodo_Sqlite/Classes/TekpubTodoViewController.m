@@ -44,7 +44,9 @@
 - (void)tableView:(UITableView *)tableView commitEditingStyle:(UITableViewCellEditingStyle)editingStyle 
 								forRowAtIndexPath:(NSIndexPath *)indexPath {
 	if(editingStyle == UITableViewCellEditingStyleDelete) {
-		//[todoItems removeObjectAtIndex:indexPath.row];
+		Todo *todo = [todoItems objectAtIndex:indexPath.row];
+		[db deleteTodo:todo];
+		[self loadTodos];
 		[tableView deleteRowsAtIndexPaths:[NSArray arrayWithObject:indexPath] 
 						 withRowAnimation:UITableViewRowAnimationRight];
 	}
@@ -70,8 +72,10 @@
 		[self presentTodoEditor:todo.text];
 
 	} else {
-		
+				
 		todo.completed = !todo.completed;
+		[db updateTodo:todo];
+		
 		[tableView reloadData];
 			
 	}
@@ -99,12 +103,17 @@
 		
 		if (lastEditedTodo == nil) {
 		
-//			Todo *todo = [[Todo alloc] initWithText:text];
-//			[todoItems addObject:todo];
-//			[todo release];
+			Todo *todo = [[Todo alloc] initWithText:text];
+			[db insertTodo:todo];
+			[todo release];
+			
+			[self reload];
 			
 		} else {
+			
 			lastEditedTodo.text = text;
+			[db updateTodo:lastEditedTodo];
+			
 		}
 		
 		[_tableView reloadData];
@@ -116,18 +125,25 @@
 #pragma mark -
 #pragma mark initialization
 
-- (void)addTodo:(NSString *)text {
-	Todo *todo = [[Todo alloc] initWithText:text];
-	//[todoItems addObject:todo];
-	[todo release];
-}
-
 - (id)initWithCoder:(NSCoder *)aDecoder {
 	if(self = [super initWithCoder:aDecoder]) {
 		db = [[TodoDatabase alloc] initWithFileName:@"todo.db"];
 	}
 	
 	return self;
+}
+
+- (void)loadTodos {
+	if (todoItems != nil) {
+		[todoItems release];
+	}
+	
+	todoItems = [[db fetchTodos] retain];
+}
+
+- (void)reload {
+	[self loadTodos];
+	[_tableView reloadData];
 }
 
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
