@@ -1,0 +1,287 @@
+Tnavdemo
+v7
+r0
+t298786497.803155
+cCheck dependencies
+cProcessInfoPlistFile /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/Info.plist navdemo-Info.plist
+cCompileXIB /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/MainWindow.xib
+cCompileXIB /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/navdemoViewController.xib
+cProcessPCH /var/folders/pH/pHXBIkL3Gfu3Ei5bSNODEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/navdemo_Prefix-csgonzdzhoejjkhjgfbtrylotrdo/navdemo_Prefix.pch.gch navdemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/main.o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemoAppDelegate.o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemoViewController.o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/SecondViewController.o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemo normal i386
+cGenerateDSYMFile /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app.dSYM /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemo
+cTouch /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/SecondViewController.h
+c000000004C1EDBE100000000000000F0
+t1277090785
+s240
+i<UIKit/UIKit.h>
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/SecondViewController.m
+c000000004C1EDC7800000000000011AA
+t1277090936
+s4522
+i"SecondViewController.h"
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoAppDelegate.h
+c000000004C1EDB3200000000000001D4
+t1277090610
+s468
+i<UIKit/UIKit.h>
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoAppDelegate.m
+c000000004C1EDAB600000000000002A2
+t1277090486
+s674
+i"navdemoAppDelegate.h"
+i"navdemoViewController.h"
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoViewController.h
+c000000004C1EDBAE0000000000000107
+t1277090734
+s263
+i<UIKit/UIKit.h>
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoViewController.m
+c000000004C1EDD010000000000000780
+t1277091073
+s1920
+i"navdemoViewController.h"
+i"SecondViewController.h"
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/MainWindow.xib
+c000000004C1EE73B00000000000075AC
+t1277093691
+s30124
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app
+t1277093696
+s238
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app.dSYM
+t1277091074
+s102
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/Info.plist
+t1277090494
+s593
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/MainWindow.nib
+t1277093696
+s3164
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/PkgInfo
+t1277090494
+s8
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemo
+t1277091074
+s21744
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemoViewController.nib
+t1277090794
+s2039
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/SecondViewController.o
+t1277090937
+s33372
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/main.o
+t1277090495
+s5988
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemo.LinkFileList
+c000000004C1EDBEA0000000000000267
+t1277090794
+s615
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemoAppDelegate.o
+t1277090734
+s38080
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemoViewController.o
+t1277091074
+s32336
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/main.m
+c000000004C1EDAB60000000000000168
+t1277090486
+s360
+i<UIKit/UIKit.h>
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/navdemoViewController.xib
+c000000004C1EDBC40000000000004795
+t1277090756
+s18325
+
+N/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/navdemo_Prefix.pch
+c000000004C1EDAB600000000000000B7
+t1277090486
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/pH/pHXBIkL3Gfu3Ei5bSNODEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/navdemo_Prefix-csgonzdzhoejjkhjgfbtrylotrdo/navdemo_Prefix.pch.gch
+t1277090495
+s13026768
+
+Nnavdemo-Info.plist
+c000000004C1EDAB6000000000000038D
+t1277090486
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298786497#298786497#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/SecondViewController.o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298783737.597733
+e298783737.678739
+r1
+xCompileC
+xbuild/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/SecondViewController.o
+x/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/SecondViewController.m298783737#298783737#0(0"0(0#0#89"/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/SecondViewController.m4300911832#2119"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/DerivedSources -include /var/folders/pH/pHXBIkL3Gfu3Ei5bSNODEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/navdemo_Prefix-csgonzdzhoejjkhjgfbtrylotrdo/navdemo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/SecondViewController.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/SecondViewController.o0#
+
+CCompileC build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/main.o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298783295.350435
+e298783295.463570
+r1
+xCompileC
+xbuild/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/main.o
+x/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/main.m298783295#298783295#0(0"0(0#0#65"/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/main.m4300911832#2079"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/DerivedSources -include /var/folders/pH/pHXBIkL3Gfu3Ei5bSNODEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/navdemo_Prefix-csgonzdzhoejjkhjgfbtrylotrdo/navdemo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/main.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/main.o0#
+
+CCompileC build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemoAppDelegate.o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298783534.270989
+e298783534.319638
+r1
+xCompileC
+xbuild/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemoAppDelegate.o
+x/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoAppDelegate.m298783534#298783534#0(0"0(0#0#87"/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoAppDelegate.m4300911832#2115"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/DerivedSources -include /var/folders/pH/pHXBIkL3Gfu3Ei5bSNODEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/navdemo_Prefix-csgonzdzhoejjkhjgfbtrylotrdo/navdemo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoAppDelegate.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemoAppDelegate.o0#
+
+CCompileC build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemoViewController.o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298783874.240748
+e298783874.321390
+r1
+xCompileC
+xbuild/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemoViewController.o
+x/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoViewController.m298783874#298783874#0(0"0(0#0#90"/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoViewController.m4300911832#2121"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/DerivedSources -include /var/folders/pH/pHXBIkL3Gfu3Ei5bSNODEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/navdemo_Prefix-csgonzdzhoejjkhjgfbtrylotrdo/navdemo_Prefix.pch -c /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/Classes/navdemoViewController.m -o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemoViewController.o0#
+
+CCompileXIB /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/MainWindow.xib
+s298786496.531911
+e298786496.820905
+r1
+xCompileXIB
+x/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib298786496#298786496#0(0"0(0#0#73"/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/MainWindow.xib4300911832#542"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/MainWindow.nib /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/MainWindow.xib0#
+
+CCompileXIB /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/navdemoViewController.xib
+s298783594.395938
+e298783594.646221
+r1
+xCompileXIB
+x/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/navdemoViewController.xib
+lSLF07#2@36"CompileXIB navdemoViewController.xib298783594#298783594#0(0"0(0#0#84"/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/navdemoViewController.xib4300911832#564"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemoViewController.nib /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/navdemoViewController.xib0#
+
+CGenerateDSYMFile /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app.dSYM /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemo
+s298783874.339250
+e298783874.350852
+r1
+xGenerateDSYMFile
+x/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app.dSYM
+x/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemo
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/navdemo.app.dSYM build/Debug-iphonesimulator/navdemo.app/navdemo298783874#298783874#0(0"0(0#0#106"/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemo4300911832#443"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemo -o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app.dSYM0#
+
+CLd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemo normal i386
+s298783874.321461
+e298783874.339163
+r1
+xLd
+x/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemo
+xnormal
+xi386
+lSLF07#2@111"Link /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemo298783874#298783874#0(0"0(0#0#0"4300911832#964"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator -F/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator -filelist /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/Objects-normal/i386/navdemo.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/navdemo0#
+
+CProcessInfoPlistFile /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/Info.plist navdemo-Info.plist
+s298783294.544841
+e298783294.560382
+r1
+xProcessInfoPlistFile
+x/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/Info.plist
+xnavdemo-Info.plist
+lSLF07#2@26"Process navdemo-Info.plist298783294#298783294#0(0"0(0#0#77"/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/navdemo-Info.plist28148004483563632#539"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility navdemo-Info.plist -genpkginfo /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app/Info.plist0#
+
+CProcessPCH /var/folders/pH/pHXBIkL3Gfu3Ei5bSNODEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/navdemo_Prefix-csgonzdzhoejjkhjgfbtrylotrdo/navdemo_Prefix.pch.gch navdemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298783294.818923
+e298783295.350359
+r1
+xProcessPCH
+x/var/folders/pH/pHXBIkL3Gfu3Ei5bSNODEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/navdemo_Prefix-csgonzdzhoejjkhjgfbtrylotrdo/navdemo_Prefix.pch.gch
+xnavdemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile navdemo_Prefix.pch298783294#298783295#0(0"0(0#0#77"/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/navdemo_Prefix.pch4300911832#1951"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-generated-files.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-own-target-headers.hmap -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-all-target-headers.hmap -iquote /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/navdemo-project-headers.hmap -F/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/include -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/DerivedSources/i386 -I/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/navdemo.build/Debug-iphonesimulator/navdemo.build/DerivedSources -c /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/navdemo_Prefix.pch -o /var/folders/pH/pHXBIkL3Gfu3Ei5bSNODEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/navdemo_Prefix-csgonzdzhoejjkhjgfbtrylotrdo/navdemo_Prefix.pch.gch0#
+
+CTouch /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app
+s298786496.821411
+e298786496.823373
+r1
+xTouch
+x/Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app
+lSLF07#2@104"Touch /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app298786496#298786496#0(0"0(0#0#0"4300911832#318"    cd /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ben/Development/iPhone/tekpub-iphone-series/navdemo/build/Debug-iphonesimulator/navdemo.app0#
+
